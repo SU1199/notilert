@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">notilert</string>
+    <string name="notification_service">notilert service</string>
+</resources>
